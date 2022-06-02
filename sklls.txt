@@ -1,10 +1,9 @@
 Linux
 Git Bash
 Git
-Git Hub[D[D[[C[C[[C[C[C[C
+GitHub
 Api
-Http?https
-[A[C[C[C[C[/[C[C[C[C[C
+Http/https
 Web testing
 Proxy
 vpn
@@ -16,4 +15,3 @@ Scrum
 Dev Tools
 ADB
 Json/xml
-
