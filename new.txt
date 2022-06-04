@@ -1,15 +1,6 @@
 NAME: NIKolja
 Surname: Lapin
 Age: 24
-[A[A[B
-[A[A[B
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[D[D
-
-[Azsdf[Patronomic: Konctantinovich
-NAME: NIKolja
-Surname: Lapin
-Patronomic: Kon tantinovich
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ds[C[C[C[C[C[C[C[C[C[C[C
-Age:24
+Patronomic: Konctantinovich
 NoP: two
-whont  salary:[D[D[D[D[D[D[Dexpected salary: 1000- 1250 $
+expected salary: 1000- 1250 $
