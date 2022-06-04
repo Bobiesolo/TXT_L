@@ -15,4 +15,4 @@ Scrum
 Dev Tools
 ADB
 Json/xml
-ss
+ssh
